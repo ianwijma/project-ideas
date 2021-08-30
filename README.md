@@ -11,7 +11,7 @@ Some idea's for me for rainy days.
 ## Medium ideas
 
 - Chrome & FireFox chrome extention like [Page ruler redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) but better
-
+- React (native) port network app for web, desktop and mobile.
 
 ## Proof of concept idea's
 
