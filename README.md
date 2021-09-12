@@ -16,3 +16,7 @@ Some idea's for me for rainy days.
 ## Proof of concept idea's
 
 - virtual DOM using Rust (WASM)
+
+## Minecraft mod idea's
+
+- Make pillagers tradable, this can be enabled by making them passive by crafing a shield out of a pillager banner
