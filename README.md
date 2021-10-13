@@ -20,3 +20,4 @@ Some idea's for me for rainy days.
 ## Minecraft mod idea's
 
 - Make pillagers tradable, this can be enabled by making them passive by crafing a shield out of a pillager banner
+- Make a "Lagfree Resourceful Bees" mod that add an apiary which holds the bees inside the machine. https://github.com/Resourceful-Bees/ResourcefulBees
