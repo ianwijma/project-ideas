@@ -7,6 +7,7 @@ Some idea's for me for rainy days.
 - Website preview image generator
 - Count down image generator
 - universal key-value cache/storage
+- Download, install and update ISO's in a directory.
 
 ## Medium ideas
 
