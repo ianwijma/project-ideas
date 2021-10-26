@@ -17,6 +17,7 @@ Some idea's for me for rainy days.
 ## Proof of concept idea's
 
 - virtual DOM using Rust (WASM)
+- Client side password encryption 
 
 ## Minecraft mod idea's
 
