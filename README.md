@@ -13,6 +13,7 @@ Some idea's for me for rainy days.
 
 - Chrome & FireFox chrome extention like [Page ruler redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) but better
 - React (native) port network app for web, desktop and mobile.
+- Chrome extention to automate browser tasks, with possibility to loop over an array of items and insert the values each loop.
 
 ## Proof of concept idea's
 
